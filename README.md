@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kipsangevans
 - 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning javaScript and python
 - 💞️ I’m looking to collaborate on this platform with anyone
 - 📫 How to reach me WhatsApp+254113435443
 
