@@ -2,6 +2,9 @@
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning javaScript and python
 - 💞️ I’m looking to collaborate on this platform with anyone
+-  🌟 Experienced in Django web development!
+- 🛠️ Currently building scalable backend solutions.
+![Django Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
 - 📫 How to reach me WhatsApp+254113435443
 
 <!---
