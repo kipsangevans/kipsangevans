@@ -51,8 +51,20 @@ Here are some of the projects I've worked on:
 
 ## 💡 **About Me**
 
-- 🎓 **Computer Science Student **
+- 🎓 Computer Science Student.
 - 🌟 Currently exploring advanced Django projects.
 - ✉️ Reach me at: [ekipsang200@gmail.com](mailto:ekipsang200@gmail.com)
 
 Feel free to explore my repositories and collaborate on exciting projects!
+## Skills & Technologies
+
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
+</div>
+
