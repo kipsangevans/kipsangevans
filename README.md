@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🛠️ **Projects**
 
 Here are some of the projects I've worked on:
-- 🌟 **[CareConnect](https://github.com/KipsangEvans/careconnect)** - A Django-based healthcare management system.
+- 🌟 **[NairobiFamilyDentalCare](https://github.com/kipsangevans/NairobiFamilyDentalCare)** - A Django-based healthcare management system.
 - 🌐 **[Etch-a-Sketch](https://github.com/KipsangEvans/etch-a-sketch)** - A dynamic, interactive drawing grid built with JavaScript.
 - 💻 **Portfolio Website** - My personal portfolio showcasing my web development journey.
 
